@@ -1,0 +1,11 @@
+# PhishGuard - Phishing Email Awareness & Analysis Toolkit
+# Python 3.11+ required
+
+customtkinter>=5.2.2
+beautifulsoup4>=4.12.3
+requests>=2.32.3
+pandas>=2.2.2
+reportlab>=4.2.0
+matplotlib>=3.9.0
+tldextract>=5.1.2
+Pillow>=10.4.0
